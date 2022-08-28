@@ -1,0 +1,25 @@
+Date: 8/28/2022
+time: 10:30 am est 
+
+
+At approximately 1030 am est the discord servers security was breached. A hacker named "Gustavo" was able to complete all verification 
+firewalls and gain access to the server. After entry Gustavo then proceeded to ask who the admins of the server were. Shortly after all 
+discord channels were deleted. Multiple spam channels then being created. 
+
+The hacker was capable of breaching the server due to a few security holes. Mainly, the bot that is utilized on the server for printing the
+price and percent change of lunc was developed in house during the early days of the server when security was not of top priority. When the bot was 
+in develpment it was utilizing a public server. This free server published the bots code as well as its token to a public domain. When the bot 
+was put into full production the bot was moved to a private paid server. But removing its code and deleteing the accounts for its test server 
+was overlooked. At some point in time over the last three months while Hana and myself have been figuring out the role permission structure, the
+lunac bot was given admin permissions to the server. Due to the bots code and token being publicly exposed Gustavo was capable of compromising its 
+token and gaining access to the servers administrative permission. 
+
+Gustavo then proceeded to delete every channel in the server. Replacing them with multiple spam channels. 
+
+It was discovered to be Gustavo from him being able to gain access to a test server. Gustavo was banned post attack but pre-confirmation due to suspicious 
+acitvity by his person previous to the attack. 
+
+
+The bot and its code has been removed from the free server and all permissions were stripped. The bot was also kicked from the discord server. 
+The server hosting the bot has been suspended. All prvious tokens utilized by the bought have been terminated. 
+The bot if brought back to the server will be redeveloped with new code and tokens, the code and tokens never having been published to a public domain. 
